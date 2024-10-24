@@ -1,0 +1,2 @@
+This is a shared document for our collaborative GitHub project.
+Each participant should add their contributions here.
